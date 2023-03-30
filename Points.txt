@@ -15,6 +15,18 @@ rapid and accurate assessment of XXX
 planning, maintenance, operation 
 preparedness and adaptions for individual hazard at asset level benefit assest and infro system.
 
+-overly prioritise system efficiency over resilience. 
+
+- data driven method and tools for quantifying resilience. 
+
+- decoupling unnecessary dependencies accross infrastructure. 
+link nodes 
+
+- reduce redunandacy in system 
+
+- economic, social and environment goals. 
+
+
 low probability and high consequenc event - tohoku earthquake and tsunami
 
 Approach 
@@ -38,9 +50,26 @@ phase
 1. planning and preparation - aging and assest deterioration. why it happening climate change role? AI virtual model; automate the identification of deterioration and damages
 - Early warning - predicting damage in infrastructure from natural and
 climatic hazards by fusing data and accurate measurements into model updating toward improved simulations
+-warning system 
+-rapid response 
+-decision making 
+- smart tagging of infra 5G 
+
 
 Phase B 2. aborption and response during and immediately 
+- mobile phone as data - condition post 
+
 3. Recovery
+- what is available 
+- rapid decision making 
+- micro-grid reconfiguration
+- real automated diagonsis
+
+4 Phase D
+evaluate deteriotaion 
+restoration scenarios 
+self-aware asset
+- reducing waste generated in constructuion and the carbon footprint 
 
 
 
@@ -50,5 +79,68 @@ Challenges
 - government failed to adopt resilience plan design. 
 - No data to make accurate infrastructure resilience predictions. 
 - physical risk and damage from natural disaster. 
- 
+- cyber attack - Die Hard movie 
+- privacy and risk misofrmation 
+- adaption might be slow but there is way smartphone
+- Identification of assest based on safety, cost, resiliency, infrastructure have greater environment impact. 
+- complex interdependencies 
+
+KPI
+- Capacity 
+- Operation and Maintenance
+- Condition 
+- Public Safety
+- Funding 
+- Resilience 
+- Future Needs 
+- Innovation
+
+city -> region -> State -> Country
+
+Infrasture grade - https://infrastructurereportcard.org/wp-content/uploads/2020/12/2021-Grades-Chart.jpg
+
+
+traffic in banaglore - https://www.hindustantimes.com/cities/bengaluru-news/rs-225-crore-loss-in-b-luru-it-firms-as-employees-stuck-in-traffic-for-5-hours-101662276509719.html
+
+Recommendation 
+- use tech
+- enhancing natural or green infra
+- system of system
+- use of code and standard
+- smarter infrastrue 
+- increase pro-active steps in flood prone area.
+- Design smart infratructure 
+- Investig in resilient infra - sava money how?
+- green roof 
+- recommend generation matrix
+- condiuct study what if it fail - impact
+local or regional impact
+- interconnected 
+asset, system, operator, supply chain and management structure 
+
+give decision maker best understanding 
+risk analytics 
+govt - criticial function day -to day 
+business provate - reveneu, business 
+operation 
+
+
+Anticipate 
+Resist 
+Absord 
+Respond 
+Adapt
+Recover
+
+hazard 
+-flooding sub station is flooded - outage 
+- node, links 
+- dependencies and inter-dependencies 
+- collect data - process - insight 
+
+threat
+- mitigate effect 
+predicting effect 
+recovery 
+
 

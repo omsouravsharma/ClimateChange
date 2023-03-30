@@ -2,3 +2,17 @@ https://www.climatechange.ai/events/iclr2020
 https://www.youtube.com/watch?v=Zlbr8Cdrp-g&ab_channel=ClimateChangeAI
 https://climate.mit.edu/explainers/climate-resilient-infrastructure
 https://www.oecd.org/environment/cc/policy-perspectives-climate-resilient-infrastructure.pdf
+
+----------
+https://www.youtube.com/watch?v=tj4lWtzUCVc&ab_channel=CenterforClimateandEnergySolutions
+
+https://www.anl.gov/dis/infrastructure-science
+---
+
+key theme 
+
+global data source 
+
+find data set 
+ML algo to use 
+visulize 
