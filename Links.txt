@@ -16,3 +16,11 @@ global data source
 find data set 
 ML algo to use 
 visulize 
+
+------
+https://www.kaggle.com/code/nithya22/forecast-landaveragetemperature-with-arima/notebook
+
+----
+
+code
+https://berkeleyearth.lbl.gov/regions/asia
