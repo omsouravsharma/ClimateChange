@@ -1,1 +1,3 @@
 https://domino.ai/partners/moodys-analytics
+
+https://climatedata.ca/explore/variable/?coords=63.09475846224108,-91.62597656250001,4&delta=true&dataset=cmip6&geo-select=&var=tg_mean&var-group=temperature&mora=jan&rcp=ssp126&decade=2060s&sector=census
