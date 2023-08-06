@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.markdown("# Main page 🎈")
-st.sidebar.markdown("# Main page 🎈")
+st.markdown("# AVATAR INNOVATION ")
+st.sidebar.markdown("# Main page")
