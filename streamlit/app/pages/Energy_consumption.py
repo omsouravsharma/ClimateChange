@@ -7,7 +7,8 @@ import cufflinks
 
 
 st.set_page_config(layout="wide")
-energy_source = pd.read_csv("../data/primary-energy-source-bar-3.csv")
+energy_source = pd.read_csv("../../data/primary-energy-source-bar-3.csv")
+# energy_source['Year'] = 
 
 # locations = data.location.unique().tolist()
 counteries = energy_source.Entity.unique().tolist()
